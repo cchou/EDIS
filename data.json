@@ -1,0 +1,15 @@
+{
+  "social" : [{
+    "shortname" : "twitter",
+    "img" : "/images/socialmedia/twitter.png",
+    "url" : "http://www.twitter.com/EDIS"
+  },{
+    "shortname" : "facebook",
+    "img" : "/images/socialmedia/facebook.png",
+    "url" : "https://www.facebook.com/EDISPubs"
+  },{
+    "shortname" : "google",
+    "img" : "/images/socialmedia/google.png",
+    "url" : "http://www.meetup.com/EDIS/"
+  }]
+}

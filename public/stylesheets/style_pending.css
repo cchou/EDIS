@@ -1,0 +1,145 @@
+@import url("http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300,700,900");
+@import url("http://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css");
+
+
+html {
+  line-height: 1;
+}
+ 
+
+body {
+  font-family: Merriweather, serif;
+  font-size: 1.2rem;
+  line-height: 160%;
+  background: #eae3cb;
+  color: #0a2933;
+}
+
+html, body, div, nav, ol, ul, li, header {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+header, nav {
+  display: block;
+  padding-left: 0;
+}
+
+a img {
+  width:100%;
+  border: none;
+}
+
+
+.layout .secondary {
+width: 32.20339%;
+float: right;
+margin-right: 0;
+font-size: 1.1rem;
+}
+
+.layout .secondary h1 {
+font-size: 1.8rem;
+color: #bd3613;
+padding-bottom: 5px;
+}
+
+.socialmediaicons .title {
+  float: left;
+}
+.socialmediaicons ul {
+  float: left;
+}
+.socialmediaicons ul li {
+  display: inline-block;
+  margin-left: 5px;
+}
+.socialmediaicons ul li img {
+  width: 30px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+
+
+header .navigation {
+  background: #124b5e;
+}
+ 
+header .navigation ul.nav li {
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+header .navigation ul.nav li i {
+  color: #f7b71a;
+  padding-right: .5em;
+}
+header .navigation ul.nav li a {
+  display: block;
+  text-decoration: none;
+  padding: 5px 10px;
+  color: #fcf4dc;
+}
+header .navigation ul.nav li:hover {
+  background: #bd3613;
+}
+header .navigation ul.nav li:hover a {
+  color: #f8c64c;
+}
+
+footer {
+  color: #eae3cb;
+  background: #0d3340;
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 60px;
+}
+
+@media (min-width: 47em) {
+  .layout .primary {
+    width: 66.10169%;
+    float: left;
+    margin-right: 1.69492%;
+  }
+}
+
+
+@media (min-width: 30em) {
+  header .navigation ul.nav {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+  }
+ 
+  header .navigation ul.nav li {
+    list-style-image: none;
+    list-style-type: none;
+    margin-left: 0;
+    white-space: nowrap;
+    display: inline;
+    float: left;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+ 
+  header .navigation ul.nav li:first-child, header .navigation ul.nav li.first {
+    padding-left: 0;
+  }
+ 
+  header .navigation ul.nav li:last-child {
+    padding-right: 0;
+  }
+ 
+  header .navigation ul.nav li.last {
+    padding-right: 0;
+  }
+}

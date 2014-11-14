@@ -1,0 +1,21 @@
+{
+  "articles" : [{
+    "title" : "Peanut Variety Performance in Florida, 2010–2013",
+    "image" : "/images/AG382_thumbnail.jpg",
+    "author" : "Barry Tillman, Mark Gomillion, Justin McKinney, and George Person",
+    "abstract" : "Variety choice is a critical management decision in producing a peanut crop. Since several good peanut varieties are available, it is essential to know each variety?s attributes and how different varieties might fit into a farm plan. This 7-page fact sheet provides data conducted from trials in Florida at UF/IFAS research centers located in Gainesville (Citra), Marianna, and Jay from 2010?2013. Written by Barry Tillman, Mark Gomillion, Justin McKinney, and George Person, and published by the UF Department of Agronomy, May 2014.",
+    "url" : "http://edis.ifas.ufl.edu/ag382"
+  },{
+    "title" : "Can Maternal Colostrum Be Replaced by Commercial Products for Feeding Newborn Calves?",
+    "image" : "/images/VM196_thumbnail.jpg", 
+    "author" : "Klibs N. Galvao",
+    "abstract" : "Colostrum management and feeding are critical for calf health, calves? future productive life, and farm profitability. Current recommendations state that a calf needs to ingest at least 150?200 g of immunoglobulin G within two hours of birth, but when colostrum quality is poor or unavailable, colostrum replacer may be a suitable alternative. This 3-page fact sheet presents the results of a recent publication that evaluated the effects of feeding maternal colostrum, one dose of plasma-derived colostrum replacer, or one dose of colostrum-derived colostrum replacer on serum total protein, immunoglobulin G concentration, calf morbidity, calf mortality, and weight gain from birth to weaning. Written by Klibs N. Galvao, and published by the UF Department of Veterinary Medicine-Large Animal Clinical Sciences, May 2014.",
+    "url" : "http://edis.ifas.ufl.edu/vm196" 
+  },{
+    "title" : "What Is the Most Cost-Effective Breeding Program for Breeding Heifers: Timed AI, Estrous Detection, or a Combination of Both?",
+    "image" : "/images/VM199_thumbnail.jpg", 
+    "author" : "Klibs N. Galvão, Eduardo S. Ribeiro, and Jose Eduardo P. Santos",
+    "abstract" : "As any other business enterprise, the sustainability of a dairy farm is highly dependent on economics. In order to obtain a profitable return on assets, there is a constant need to maximize outputs and, oftentimes, to minimize inputs. Reproduction influences both milk production and number of replacement heifers available on a farm; therefore, reproductive efficiency becomes a key determinant of dairy cow profitability. This 3-page fact sheet presents information from recently published work that looked at the economics of different reproductive programs for breeding heifers that use timed AI only, estrus detection only, or a combination of both. Written by Klibs N. Galv�o, Eduardo S. Ribeiro, and Jose Eduardo P. Santos, and published by the UF Department of Veterinary Medicine-Large Animal Clinical Sciences, May 2014.",
+    "url" : "http://edis.ifas.ufl.edu/vm199"
+  }]
+}

@@ -1,0 +1,14 @@
+<article id="articleslist">
+   <section>
+   <% articles.forEach(function(item) { %>
+      <article id="article">
+            <h3><%= item.title %></h3>            
+            <div class = "hidden-xs hidden-sm" > 
+               <img style="float:left; padding-top: 5px; padding-right:15px" src="<%= item.image %>" class="img-responsive" alt="Responsive imag">
+            </div>
+   			<p class = "hidden-xs hidden-sm"><%= item.abstract %></p>
+   			<a href="<%= item.url %>"><%= item.author %></a>
+      </article>
+   	<% }); %>
+   </section>
+</article>
